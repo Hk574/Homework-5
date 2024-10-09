@@ -85,6 +85,8 @@ You can run the calculator in REPL mode with or without multiprocessing.
 - **subtract**: Subtracts the second number from the first
 - **multiply**: Multiplies two numbers
 - **divide**: Divides the first number by the second
+- **square**: Finds the square of the number
+- **cube**: Finds the cube of the number
 
 ## How to Use the REPL Mode
 
