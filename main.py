@@ -1,6 +1,6 @@
 import sys
-import os
 import time
+import os
 from decimal import Decimal, InvalidOperation
 from calculator.command_registry import command_registry
 from calculator.calculations import Calculations
